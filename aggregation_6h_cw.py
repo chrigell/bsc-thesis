@@ -1,7 +1,7 @@
 import xarray as xr
 
 aggregation_time = 6
-months = ['05','06','07','08']
+months = ['05','06','07','08', '09']
 
 for month in months:
     print(f'Processing month: {month}',flush=True)
