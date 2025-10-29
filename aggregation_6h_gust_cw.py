@@ -17,7 +17,7 @@ outdir = indir  # change if you want different output directory
 
 for init in inits:
     inp = indir / f"ICON-CH1-EPS_{init}.nc"
-    out = outdir / f"ICON-CH1-EPS_{init}._agg.nc"
+    out = outdir / f"ICON-CH1-EPS_{init}_agg.nc"
     print(f"Processing {inp}", flush=True)
 
     # Open the dataset for the specific initialization time
