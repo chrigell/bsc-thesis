@@ -1,0 +1,83 @@
+{
+  "Bern": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-09-01T15_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_09_2024_agg.nc",
+    "selected_date": "2024090115",
+    "selected_leadtime": 0,
+    "c_name": "Bern",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [10.3, 27.4]
+  },
+  "Brienz": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-08-12T12_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_08_2024_agg.nc",
+    "selected_date": "2024081212",
+    "selected_leadtime": 0,
+    "c_name": "Brienz",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [13.6, 32.2]
+  },
+  "Buochs": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-09-01T15_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_09_2024_agg.nc",
+    "selected_date": "2024090115",
+    "selected_leadtime": 0,
+    "c_name": "Buochs",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [14.3, 33.1]
+  },
+  "Gordevio": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-07-12T00_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_07_2024_agg.nc",
+    "selected_date": "2024071200",
+    "selected_leadtime": 0,
+    "c_name": "Gordevio",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [19.3, 45.1]
+  },
+  "Interlaken": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-08-12T12_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_08_2024_agg.nc",
+    "selected_date": "2024081212",
+    "selected_leadtime": 0,
+    "c_name": "Interlaken",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [13.5, 31.9]
+  },
+  "Lugano": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-07-11T21_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_07_2024_agg.nc",
+    "selected_date": "2024071121",
+    "selected_leadtime": 12,
+    "c_name": "Lugano",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [21.4, 47.8]
+  },
+  "Morges": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-08-18T00_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_08_2024_agg.nc",
+    "selected_date": "2024081800",
+    "selected_leadtime": 0,
+    "c_name": "Morges",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [10.3, 27.4]
+  },
+  "Salavaux": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-09-01T06_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_09_2024_agg.nc",
+    "selected_date": "2024090106",
+    "selected_leadtime": 6,
+    "c_name": "Salavaux",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [9.8, 26.0]
+  },
+  "Sempach": {
+    "gust_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_gust_data/ICON-CH1-EPS_2024-09-01T15_agg.nc",
+    "precip_path": "/scratch2/cwenger/ICON-CH1_monthly/ICON-CH1_09_2024_agg.nc",
+    "selected_date": "2024090115",
+    "selected_leadtime": 0,
+    "c_name": "Sempach",
+    "gust_thresholds": [18, 25],
+    "precip_thresholds": [12.2, 31.6]
+  }
+}
