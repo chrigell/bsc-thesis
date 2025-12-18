@@ -21,8 +21,8 @@ The code is provided as research code accompanying the thesis and is not intende
 
 If you use this code, please cite the thesis accordingly:
 
-> [Christian Wenger] (2025): *Towards a Definition of Wind Thresholds for Thunderstorm Events: A Qualitative Case Study for Swiss Campgrounds*. Bachelor’s thesis, [University of Bern].
->
+Wenger, C. L. (2025). *Towards a Definition of Wind Thresholds for Thunderstorm Events: A Qualitative Case Study for Swiss Campgrounds*. [Unpublished Bachelor’s Thesis]. University of Bern.
+
 ## Code Overview
 
 This repository contains scripts, notebooks, and configuration files used for the analyses presented in the thesis. The main components are:
