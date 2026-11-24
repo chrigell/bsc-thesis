@@ -54,3 +54,12 @@ This repository contains scripts, notebooks, and configuration files used for th
 - **cases.json**  
   Case study definitions, including timing and domain information.
 
+## License and Disclaimer
+
+The code is provided for academic and reproducibility purposes. No warranty is provided regarding its suitability for operational forecasting or other applications.
+
+<a href="https://example.com">Code of Towards a Definition of Wind
+Thresholds for Thunderstorm
+Events: A Qualitative Case Study
+for Swiss Campgrounds</a> © 2026 by <a href="https://example.com">Andrin Sutter and Christian Wenger</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
